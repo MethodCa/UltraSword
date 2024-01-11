@@ -13,7 +13,13 @@ The game heavily relies on visual cues to alert or inform the player of what's h
     <img src="https://github.com/MethodCa/UltraSword/assets/15893276/06eb1bfe-ceda-4518-b0ec-8658ab373301" alt="UltraSword">
 </p>
 
-The animations are achieved using a custom Class written for UltraSword called AnimatedSprite. AnimatedSprite updates a GameObject that contains a Array of the animation frames to correctly render and iterate them, Animations can be type LOOP, ONE_TIME or STATIC.
+The animations are achieved using a custom Class written for UltraSword called AnimatedSprite. AnimatedSprite is a GameObject that contains:
+```c# 
+public AnimatedSprite(Texture2D atlas, bool horizontalLoaging, Rectangle firstFramePosition,
+                      byte animationType, short frameDuration, byte totalAnimationFrames)
+```
+AnimatedSprite renders and iterate the animation frames, Animations can be type LOOP, ONE_TIME or STATIC.
+
 ```c#
  public void Update(GameTime gameTime)
  {
@@ -35,4 +41,22 @@ The animations are achieved using a custom Class written for UltraSword called A
      }
      this.currentAnimationTime += (float)gameTime.ElapsedGameTime.Milliseconds;
  }
+```
+To render a frame AnimatedSprite iterates through the Texture2D atlas and selects the frame that should be rendered.
+```c#
+public Rectangle Render()
+{
+    int offset = 0;
+    if (horizontalLoading)          //horizontal loading applies to the images that are stored in an horizontal fashion
+    {
+        offset = firstFramePosition.Width * currentFrame;
+        return new Rectangle(firstFramePosition.X + offset, firstFramePosition.Y, firstFramePosition.Width, firstFramePosition.Height);
+    }
+    else
+    {                               //horizontal loading applies to the images that are stored in a vertical fashion
+        offset = firstFramePosition.Height * (currentFrame);
+        return new Rectangle(firstFramePosition.X, firstFramePosition.Y + offset, firstFramePosition.Width, firstFramePosition.Height);
+    }
+    
+}
 ```
