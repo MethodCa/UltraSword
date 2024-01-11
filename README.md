@@ -13,3 +13,27 @@ The game heavily relies on visual cues to alert or inform the player of what's h
     <img src="https://github.com/MethodCa/UltraSword/assets/15893276/06eb1bfe-ceda-4518-b0ec-8658ab373301" alt="UltraSword">
 </p>
 
+The animations are achieved using a custom Class written for UltraSword called AnimatedSprite. AnimatedSprite updates a GameObject that contains all frames of animation to correctly display the corresponding frame:
+
+```c#
+ public void Update(GameTime gameTime)
+ {
+     if(animationType != (int)AnimationType.STATIC)              //updated the animation if it is a non-static
+     {
+         if (currentAnimationTime >= frameDuration)
+         {
+             currentFrame++;
+             if (currentFrame > totalAnimationFrames)
+             {
+                 if (animationType == (int)AnimationType.LOOP)
+                     currentFrame = 0;
+                 else
+                     currentFrame = totalAnimationFrames;
+                     isAnimationEnded = true;
+             }
+             currentAnimationTime = 0;
+         }
+     }
+     this.currentAnimationTime += (float)gameTime.ElapsedGameTime.Milliseconds;
+ }
+```
