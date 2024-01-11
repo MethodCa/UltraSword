@@ -1,5 +1,5 @@
 # UltraSword
-RPG videogame written in C# using Monogame Framework. Battle logic is based in the popular Rock, paper, scissors game. 
+RPG videogame written in C# using Monogame Framework[^1]. Battle logic is based in the popular Rock, paper, scissors game. 
 Player and CPU need to wait until its time bar is complete, when the bar is full its you turn to Attack!
 
 <p align="center">
@@ -42,7 +42,11 @@ AnimatedSprite renders and iterate the animation frames, Animations can be type 
      this.currentAnimationTime += (float)gameTime.ElapsedGameTime.Milliseconds;
  }
 ```
-To render a frame AnimatedSprite iterates through the Texture2D atlas and selects the frame that should be rendered, frames can be stored in the texture atlas using Horizontal or Vertical alignment.
+To render a frame AnimatedSprite iterates through the Texture2D atlas and selects the frame that should be rendered, frames can be stored in the texture atlas using Horizontal 
+or Vertical alignment.
+- Horizontal Aligment example.
+![Animations](https://github.com/MethodCa/UltraSword/assets/15893276/37481580-d1a8-46e3-bd3f-eda9aeb61caf)
+
 ```c#
 public Rectangle Render()
 {
@@ -60,3 +64,8 @@ public Rectangle Render()
     
 }
 ```
+
+> [!NOTE]
+> This game was ported to Python using PyGame! have a look here [UltraSword PyGame]
+> 
+[^1]: [MonoGame](https://monogame.net/) Open-source implementation of the Microsoft XNA Framework that supports all gaming platforms. 
