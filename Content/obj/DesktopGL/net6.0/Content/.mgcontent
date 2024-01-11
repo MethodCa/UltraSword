@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Atlas/background_atlas.png</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Atlas/character_atlas.png</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Atlas/help.png</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Atlas/hud_atlas.png</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Atlas/screen_atlas.png</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Fonts/font.spritefont</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Fonts/fontSmall.spritefont</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/announcer_attack.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/announcer_defend.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/announcer_gameover.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/announcer_select_hero.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/announcer_you_lose.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/announcer_you_win.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/announcer.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/battle.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/foe_damage.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/foe_death.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/gameover.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/hero_damage.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/hero_death.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/main_theme.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/option.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/potion.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/random.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/random1.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/select1.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/select2.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/select3.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/sword_clash.wav</File>
+    <File>C:/Users/sarue/Desktop/Assignment2_UsedaViana_Rosibel/RPG_Game/RPG_monogame/Content/Music/sword_slash.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

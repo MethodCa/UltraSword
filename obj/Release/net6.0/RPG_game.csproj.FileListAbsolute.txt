@@ -1,0 +1,232 @@
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Atlas\background_atlas.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Atlas\character_atlas.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Atlas\help.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Atlas\hud_atlas.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Atlas\screen_atlas.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\fonts\font.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\fonts\fontSmall.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_attack.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_defend.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_gameover.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_select_hero.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_you_lose.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_you_win.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\battle.ogg
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\battle.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\foe_damage.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\foe_death.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\gameover.ogg
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\gameover.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\hero_damage.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\hero_death.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\main_theme.ogg
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\main_theme.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\option.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\potion.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\random.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\random1.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\select1.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\select2.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\select3.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\sword_clash.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\sword_slash.xnb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\RPG_game.exe
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\RPG_game.deps.json
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\RPG_game.runtimeconfig.json
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\RPG_game.dll
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\RPG_game.pdb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\MonoGame.Framework.dll
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.csproj.AssemblyReference.cache
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.AssemblyInfoInputs.cache
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.AssemblyInfo.cs
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.csproj.CoreCompileInputs.cache
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.csproj.CopyComplete
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.dll
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\refint\RPG_game.dll
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.pdb
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.genruntimeconfig.cache
+C:\Users\sarue\Desktop\Projecto Rosibel\ULTIMA VERSIOn\RPG_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\ref\RPG_game.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Atlas\background_atlas.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Atlas\character_atlas.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Atlas\help.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Atlas\hud_atlas.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Atlas\screen_atlas.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\fonts\font.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\fonts\fontSmall.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_attack.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_defend.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_gameover.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_select_hero.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_you_lose.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\announcer_you_win.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\battle.ogg
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\battle.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\foe_damage.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\foe_death.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\gameover.ogg
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\gameover.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\hero_damage.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\hero_death.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\main_theme.ogg
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\main_theme.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\option.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\potion.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\random.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\random1.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\select1.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\select2.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\select3.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\sword_clash.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\Content\Music\sword_slash.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\RPG_game.exe
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\RPG_game.deps.json
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\RPG_game.runtimeconfig.json
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\RPG_game.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\RPG_game.pdb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\MonoGame.Framework.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\bin\Release\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.csproj.AssemblyReference.cache
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.AssemblyInfoInputs.cache
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.AssemblyInfo.cs
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.csproj.CoreCompileInputs.cache
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.csproj.CopyComplete
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\refint\RPG_game.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.pdb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\RPG_game.genruntimeconfig.cache
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_monogame\RPG_monogame\RPG_game\obj\Release\net6.0\ref\RPG_game.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Atlas\background_atlas.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Atlas\character_atlas.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Atlas\help.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Atlas\hud_atlas.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Atlas\screen_atlas.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\fonts\font.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\fonts\fontSmall.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_attack.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_defend.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_gameover.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_select_hero.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_you_lose.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_you_win.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\battle.ogg
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\battle.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\foe_damage.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\foe_death.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\gameover.ogg
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\gameover.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\hero_damage.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\hero_death.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\main_theme.ogg
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\main_theme.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\option.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\potion.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\random.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\random1.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\select1.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\select2.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\select3.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\sword_clash.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\sword_slash.xnb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\RPG_game.exe
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\RPG_game.deps.json
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\RPG_game.runtimeconfig.json
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\RPG_game.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\RPG_game.pdb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\MonoGame.Framework.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.csproj.AssemblyReference.cache
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.AssemblyInfoInputs.cache
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.AssemblyInfo.cs
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.csproj.CoreCompileInputs.cache
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.csproj.CopyComplete
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\obj\Release\net6.0\refint\RPG_game.dll
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.pdb
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.genruntimeconfig.cache
+C:\Users\Rosib\OneDrive\Escritorio\Autumn 2023\Comparative\LastAssignment\Proyectos_5_12_23\Ultrasword_project\RPG_Game\RPG_monogame\obj\Release\net6.0\ref\RPG_game.dll
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Atlas\background_atlas.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Atlas\character_atlas.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Atlas\help.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Atlas\hud_atlas.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Atlas\screen_atlas.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\fonts\font.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\fonts\fontSmall.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_attack.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_defend.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_gameover.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_select_hero.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_you_lose.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\announcer_you_win.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\battle.ogg
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\battle.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\foe_damage.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\foe_death.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\gameover.ogg
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\gameover.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\hero_damage.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\hero_death.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\main_theme.ogg
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\main_theme.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\option.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\potion.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\random.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\random1.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\select1.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\select2.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\select3.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\sword_clash.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\Content\Music\sword_slash.xnb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\RPG_game.exe
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\RPG_game.deps.json
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\RPG_game.runtimeconfig.json
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\RPG_game.dll
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\RPG_game.pdb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\MonoGame.Framework.dll
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\bin\Release\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.csproj.AssemblyReference.cache
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.AssemblyInfoInputs.cache
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.AssemblyInfo.cs
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.csproj.CoreCompileInputs.cache
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.csproj.CopyComplete
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.dll
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\obj\Release\net6.0\refint\RPG_game.dll
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.pdb
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\obj\Release\net6.0\RPG_game.genruntimeconfig.cache
+C:\Users\sarue\Desktop\Assignment2_UsedaViana_Rosibel\RPG_Game\RPG_monogame\obj\Release\net6.0\ref\RPG_game.dll
