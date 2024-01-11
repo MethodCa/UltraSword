@@ -66,6 +66,6 @@ public Rectangle Render()
 ```
 
 > [!NOTE]
-> This game was ported to Python using PyGame! have a look here [UltraSword PyGame]
+> This game was ported to Python using PyGame! have a look here [UltraSword PyGame](https://github.com/MethodCa/UltraSword_PyGame)
 > 
 [^1]: [MonoGame](https://monogame.net/) Open-source implementation of the Microsoft XNA Framework that supports all gaming platforms. 
