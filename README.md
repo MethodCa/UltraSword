@@ -13,8 +13,7 @@ The game heavily relies on visual cues to alert or inform the player of what's h
     <img src="https://github.com/MethodCa/UltraSword/assets/15893276/06eb1bfe-ceda-4518-b0ec-8658ab373301" alt="UltraSword">
 </p>
 
-The animations are achieved using a custom Class written for UltraSword called AnimatedSprite. AnimatedSprite updates a GameObject that contains all frames of animation to correctly display the corresponding frame:
-
+The animations are achieved using a custom Class written for UltraSword called AnimatedSprite. AnimatedSprite updates a GameObject that contains a Array of the animation frames to correctly render and iterate them, Animations can be type LOOP, ONE_TIME or STATIC.
 ```c#
  public void Update(GameTime gameTime)
  {
