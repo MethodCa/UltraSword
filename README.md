@@ -1,5 +1,5 @@
 # UltraSword
-RPG videogame written in C# using Monogame Framework[^1]. Battle logic is based in the popular Rock, paper, scissors game. 
+RPG videogame written in C# using Monogame Framework[^1]. Battle logic is based in the popular rock, paper, scissors game. 
 Player and CPU need to wait until its time bar is complete, when the bar is full its you turn to Attack!
 
 <p align="center">
