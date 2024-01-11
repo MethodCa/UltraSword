@@ -42,7 +42,7 @@ AnimatedSprite renders and iterate the animation frames, Animations can be type 
      this.currentAnimationTime += (float)gameTime.ElapsedGameTime.Milliseconds;
  }
 ```
-To render a frame AnimatedSprite iterates through the Texture2D atlas and selects the frame that should be rendered.
+To render a frame AnimatedSprite iterates through the Texture2D atlas and selects the frame that should be rendered, frames can be stored in the texture atlas using Horizontal or Vertical alignment.
 ```c#
 public Rectangle Render()
 {
